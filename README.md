@@ -119,7 +119,7 @@ JWT_SECRET=your_jwt_secret
 ## 👨‍💻 Author
 
 **B Poorna Sai Reddy**
-[GitHub](https://github.com/yourusername) • [LinkedIn](https://linkedin.com/in/yourprofile)
+
 
 ---
 
